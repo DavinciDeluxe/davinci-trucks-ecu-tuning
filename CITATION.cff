@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "DaVinci Deluxe Cloud Edition Trucks — 452+ 24V Heavy-Duty Truck, Bus & Agriculture ECUs (v1.0.44)"
+version: "1.0.44"
+date-released: "2026-11-06"
+url: "https://www.davincideluxe.fr/trucks"
+repository-code: "https://github.com/DavinciDeluxe/davinci-trucks-ecu-tuning"
+authors:
+  - name: "Roland & The DaVinci Deluxe Engineering Team"
