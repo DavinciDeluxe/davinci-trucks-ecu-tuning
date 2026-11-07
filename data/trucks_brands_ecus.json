@@ -1,5 +1,5 @@
 {
-  "version": "v1.0.44",
+  "version": "v1.0.45",
   "urls": [
     "https://www.davincideluxe.fr/trucks",
     "https://www.davincideluxe.org/trucks",
@@ -59,7 +59,9 @@
       "L32",
       "MS5",
       "MS6.2",
-      "S6-7"
+      "S6",
+      "S6-7",
+      "S8"
     ],
     "CLAAS": [
       "ACM",
@@ -386,6 +388,12 @@
       "EDC17CV41",
       "EDC17CV54"
     ],
+    "MACK": [
+      "EDC17CV41",
+      "EMS2",
+      "EMS2.2",
+      "MS6.2"
+    ],
     "KRAMER": [
       "EDC17CV52"
     ],
@@ -400,6 +408,25 @@
     ],
     "NAVISTAR": [
       "SID904"
+    ],
+    "ISUZU": [
+      "4HK1",
+      "4HK1E5N",
+      "4JXX",
+      "4JXX SH7058",
+      "DIESEL",
+      "DMCI",
+      "EDC16C39",
+      "EDC17C09",
+      "EDC17C81",
+      "EDC17C83",
+      "EDC17CV41",
+      "MCM",
+      "SH7055",
+      "SH7058 _ SH72544",
+      "SH7058-4JJ1",
+      "SH72XX",
+      "TTI"
     ],
     "IVECO": [
       "CM570",
@@ -536,12 +563,6 @@
       "EDC17CV41",
       "EDC17CV44"
     ],
-    "MACK": [
-      "EDC17CV41",
-      "EMS2",
-      "EMS2.2",
-      "MS6.2"
-    ],
     "HINO": [
       "CPC",
       "L11"
@@ -566,24 +587,6 @@
     "TOYOTA DYNA": [
       "RX703200"
     ],
-    "ISUZU": [
-      "4HK1",
-      "4HK1E5N",
-      "4JXX",
-      "4JXX SH7058",
-      "DMCI",
-      "EDC16C39",
-      "EDC17C09",
-      "EDC17C81",
-      "EDC17C83",
-      "EDC17CV41",
-      "MCM",
-      "SH7055",
-      "SH7058 _ SH72544",
-      "SH7058-4JJ1",
-      "SH72XX",
-      "TTI"
-    ],
     "JOHN DEERE": [
       "K140026889",
       "K14026889",
@@ -601,7 +604,10 @@
       "L32",
       "L33",
       "L3X",
+      "L4",
       "L4-L11",
+      "L9",
+      "LX",
       "LXX",
       "MPC-ST10",
       "PHOENIX",
