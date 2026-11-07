@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""DaVinci Deluxe Cloud Edition (v1.0.44) — Virgin ECU Readout Pre-Check & Live Multi-Domain Catalog"""
+"""DaVinci Deluxe Cloud Edition (v1.0.45) — Virgin ECU Readout Pre-Check & Live Multi-Domain Catalog"""
 import hashlib, json, sys, urllib.request
 
 OFFICIAL_DOMAINS = [
