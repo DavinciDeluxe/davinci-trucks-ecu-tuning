@@ -14,7 +14,6 @@
   "ecu_count": 452,
   "byBrand": {
     "MAN TRUCKS": [
-      "ED7C32",
       "EDC17C32",
       "EDC17C49",
       "EDC17C7",
@@ -46,7 +45,6 @@
       "EDC7UC31-EDC16U40"
     ],
     "SCANIA": [
-      "DC1716",
       "EDC17CV41",
       "EDC7C32",
       "EMS",
@@ -59,8 +57,7 @@
       "EMS8-EMD1",
       "L32",
       "MS5",
-      "MS6.2",
-      "S6-7"
+      "MS6.2"
     ],
     "CLAAS": [
       "ACM",
@@ -70,17 +67,15 @@
       "EDC17CV41",
       "EDC17CV42",
       "EDC17CV52",
-      "L11-L12",
+      "L11",
+      "L12",
       "L14",
       "L16",
       "L21",
       "L23",
-      "L9-L11-L12",
-      "LXX",
       "MD1CE101",
       "MPC-ST10",
       "PHOENIX",
-      "PHOENIX LXX",
       "PLD"
     ],
     "CASE IH": [
@@ -89,10 +84,8 @@
       "DCU15",
       "DCU17PC43",
       "EDC16C39",
-      "EDC16C8",
       "EDC17C32",
       "EDC17C49",
-      "EDC17C69",
       "EDC17CP52",
       "EDC17CV41",
       "EDC17CV54",
@@ -103,7 +96,6 @@
       "EDC7U31",
       "EDC7UC31-13",
       "MD1CE101",
-      "MD1CE101_C1",
       "MD1CS069",
       "MS6.1",
       "MS6.2",
@@ -151,9 +143,7 @@
       "CMXX",
       "DCM1",
       "DCU15",
-      "DMC",
       "DMCI",
-      "DMC_CAN",
       "EDC16C39",
       "EDC17C1",
       "EDC17CV01",
@@ -163,7 +153,6 @@
       "EDC7C32",
       "ETC3",
       "MS6.2",
-      "MX13",
       "PC3"
     ],
     "MACDON": [
@@ -193,12 +182,12 @@
       "EDC17CV56"
     ],
     "JCB": [
+      "CM850",
       "DCM3.3",
       "DCU17CV51",
       "EDC17C01",
       "EDC17CV41",
       "EDC17CV44",
-      "MC850",
       "MCM2.1"
     ],
     "QMATEC": [
@@ -221,10 +210,6 @@
       "ACM2",
       "ACM2.1",
       "CPC",
-      "CRD3",
-      "CRD3.20",
-      "CRD3.5",
-      "CRD3.X",
       "EDC17CV41",
       "EDC17CV52",
       "HDEP",
@@ -256,10 +241,7 @@
       "DCU15",
       "DCU17PC43",
       "EDC16C39",
-      "EDC16C8",
       "EDC17C49",
-      "EDC17C49_C",
-      "EDC17C69",
       "EDC17CP52",
       "EDC17CV41",
       "EDC17CV54",
@@ -283,9 +265,7 @@
       "DCU15",
       "DCU17PC43",
       "EDC16C39",
-      "EDC16C8",
       "EDC17C49",
-      "EDC17C69",
       "EDC17CP52",
       "EDC17CV41",
       "EDC17CV54",
@@ -429,7 +409,6 @@
     "VOLVO TRUCKS": [
       "ACM",
       "ATK-EM-EU6",
-      "DENSO VEA",
       "EDC U2",
       "EDC17CV41",
       "EDC7",
@@ -454,7 +433,6 @@
       "EDC17CV54",
       "EDC17CV55",
       "EDC7C4",
-      "L16012809",
       "PLD",
       "SH7055"
     ],
@@ -477,8 +455,6 @@
       "EMS2.2",
       "EMS2.3",
       "EMS2.4",
-      "EMS315X",
-      "EMS3161",
       "MS6.2",
       "MS6.3",
       "SH7059"
@@ -489,7 +465,6 @@
       "EDC7",
       "EDC7C1",
       "EDC7UC31",
-      "EMS2511",
       "PLD",
       "SID902",
       "SID90XX"
@@ -504,8 +479,7 @@
       "ADEM3",
       "ADEM4",
       "CM850",
-      "EDC17CV42",
-      "III"
+      "EDC17CV42"
     ],
     "KIOTI": [
       "EDC17C01"
@@ -561,10 +535,6 @@
       "RX703200"
     ],
     "ISUZU": [
-      "4HK1",
-      "4HK1E5N",
-      "4JXX",
-      "4JXX SH7058",
       "DMCI",
       "EDC16C39",
       "EDC17C09",
@@ -573,14 +543,10 @@
       "EDC17CV41",
       "MCM",
       "SH7055",
-      "SH7058 _ SH72544",
-      "SH7058-4JJ1",
-      "SH72XX",
-      "TTI"
+      "SH7058-SH72544"
     ],
     "JOHN DEERE": [
-      "K140026889",
-      "K14026889",
+      "L11",
       "L12",
       "L14",
       "L15",
@@ -588,31 +554,24 @@
       "L2",
       "L21",
       "L23",
-      "L2X",
       "L3",
       "L32",
       "L33",
-      "L3X",
-      "L4-L11",
-      "LXX",
+      "L4",
       "MPC-ST10",
-      "PHOENIX",
-      "PHOENIX LXX"
+      "PHOENIX"
     ],
     "MERLO": [
-      "A6E11",
       "EDC17CV52"
     ],
     "VOLKSWAGEN TRUCKS": [
       "CM2150E",
       "CM2220A",
       "CPC",
-      "DCM6.2V",
-      "EDC16U34",
+      "EDC16",
       "EDC17CV41",
       "EDC7C32",
-      "MCM",
-      "ME7.1.1"
+      "MCM"
     ],
     "OTOCAR BUS": [
       "EDC17CV41"
