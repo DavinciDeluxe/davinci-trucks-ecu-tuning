@@ -361,6 +361,12 @@
       "EDC17CV41",
       "EDC17CV54"
     ],
+    "MACK": [
+      "EDC17CV41",
+      "EMS2",
+      "EMS2.2",
+      "MS6.2"
+    ],
     "KRAMER": [
       "EDC17CV52"
     ],
@@ -375,6 +381,17 @@
     ],
     "NAVISTAR": [
       "SID904"
+    ],
+    "ISUZU": [
+      "DMCI",
+      "EDC16C39",
+      "EDC17C09",
+      "EDC17C81",
+      "EDC17C83",
+      "EDC17CV41",
+      "MCM",
+      "SH7055",
+      "SH7058-SH72544"
     ],
     "IVECO": [
       "CM570",
@@ -496,6 +513,7 @@
       "ETC3"
     ],
     "DETROIT": [
+      "CPC",
       "DDEC10",
       "DDEC6",
       "MCM2.1"
@@ -504,17 +522,12 @@
       "EDC17CV41",
       "EDC17CV44"
     ],
-    "MACK": [
-      "EDC17CV41",
-      "EMS2",
-      "EMS2.2",
-      "MS6.2"
-    ],
     "HINO": [
       "CPC",
       "L11"
     ],
     "FREIGHTLINER": [
+      "CPC",
       "DDEC10",
       "EDC17CV41",
       "MCM",
@@ -533,17 +546,6 @@
     ],
     "TOYOTA DYNA": [
       "RX703200"
-    ],
-    "ISUZU": [
-      "DMCI",
-      "EDC16C39",
-      "EDC17C09",
-      "EDC17C81",
-      "EDC17C83",
-      "EDC17CV41",
-      "MCM",
-      "SH7055",
-      "SH7058-SH72544"
     ],
     "JOHN DEERE": [
       "L11",
@@ -567,7 +569,6 @@
     "VOLKSWAGEN TRUCKS": [
       "CM2150E",
       "CM2220A",
-      "CPC",
       "EDC16",
       "EDC17C46",
       "EDC17CV41",
