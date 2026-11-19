@@ -311,11 +311,6 @@
       "EDC17CV52",
       "EDC17CV56"
     ],
-    "DOOSAN": [
-      "EDC17C04",
-      "EDC17CV41",
-      "EDC17CV54"
-    ],
     "SCANIA": [
       "EDC17CV41",
       "EDC7C32",
@@ -495,6 +490,15 @@
     ],
     "BOMAG": [
       "ACM"
+    ],
+    "BOBCAT": [
+      "DCM3.7"
+    ],
+    "DOOSAN": [
+      "DCM3.7",
+      "EDC17C04",
+      "EDC17CV41",
+      "EDC17CV54"
     ]
   }
 }
