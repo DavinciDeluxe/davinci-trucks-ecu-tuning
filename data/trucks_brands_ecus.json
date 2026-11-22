@@ -244,15 +244,6 @@
       "CM2350B",
       "CM2450B"
     ],
-    "ISUZU": [
-      "EDC17C09",
-      "EDC17C81",
-      "EDC17C83",
-      "EDC17CV41",
-      "MCM",
-      "SH7055",
-      "SH7058-SH72544"
-    ],
     "TAKEUCHI": [
       "EDC17CV52"
     ],
@@ -499,6 +490,15 @@
       "EDC17C04",
       "EDC17CV41",
       "EDC17CV54"
+    ],
+    "ISUZU": [
+      "EDC17C09",
+      "EDC17C81",
+      "EDC17C83",
+      "EDC17CV41",
+      "MCM",
+      "SH7055",
+      "SH7058-SH72544"
     ]
   }
 }
