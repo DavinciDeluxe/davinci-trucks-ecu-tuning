@@ -10,7 +10,7 @@
     "https://www.davincideluxe.it/trucks",
     "https://www.aesoftech.eu/trucks"
   ],
-  "brand_count": 82,
+  "brand_count": 104,
   "ecu_count": 452,
   "byBrand": {
     "CASE IH": [
@@ -43,6 +43,7 @@
     "MANITOU": [
       "ACM",
       "ACM2.1",
+      "EDC17CV52",
       "MCM",
       "MCM2.1-D3"
     ],
@@ -50,12 +51,15 @@
       "CM2150E"
     ],
     "YANMAR": [
+      "EDC16C1",
       "EDC17CV54"
     ],
     "VOLVO TRUCKS": [
       "ACM",
       "ATK-EM-EU6",
       "EDC17CV41",
+      "EDC7",
+      "EDC7C1-C2",
       "EDC7UC31",
       "EMS",
       "EMS2",
@@ -76,10 +80,12 @@
       "ACM2.1",
       "CPC",
       "EDC17CV41",
+      "EDC17CV52",
       "HDEP",
       "MCM",
       "MCM2",
       "MCM2.1",
+      "MCM2.1 D3",
       "MEB",
       "MR2",
       "MS5",
@@ -95,6 +101,7 @@
       "CM2350",
       "CM2350A",
       "CM850",
+      "CMXX",
       "DCM1",
       "DCU15",
       "DMCI",
@@ -103,6 +110,7 @@
       "EDC17CV01",
       "EDC7",
       "EDC7C1",
+      "EDC7C3",
       "EDC7C32",
       "ETC3",
       "MS6.2",
@@ -117,11 +125,13 @@
     "DETROIT": [
       "CPC",
       "DDEC10",
-      "DDEC6"
+      "DDEC6",
+      "MCM2.1"
     ],
     "UD TRUCKS": [
       "CM3230",
       "CM850",
+      "EDC7UC31",
       "EMS2.2"
     ],
     "MITSUBISHI FUSO": [
@@ -133,6 +143,7 @@
       "EDC17CV54",
       "EDC17CV55",
       "EDC7C4",
+      "PLD",
       "SH7055"
     ],
     "MERLO": [
@@ -242,7 +253,8 @@
       "CM2200",
       "CM2350",
       "CM2350B",
-      "CM2450B"
+      "CM2450B",
+      "CM849B"
     ],
     "TAKEUCHI": [
       "EDC17CV52"
@@ -282,6 +294,7 @@
       "L23",
       "L32",
       "L33",
+      "L4",
       "MPC-ST10",
       "PHOENIX"
     ],
@@ -295,14 +308,18 @@
     "MASSEY FERGUSON": [
       "DCM3.7",
       "EDC17CV41",
-      "EDC17CV44"
+      "EDC17CV44",
+      "EDC7UC31"
     ],
     "DEUTZ": [
+      "EDC16U40",
+      "EDC16UC40",
       "EDC17C53",
       "EDC17CV52",
       "EDC17CV56"
     ],
     "SCANIA": [
+      "EDC S6",
       "EDC17CV41",
       "EDC7C32",
       "EMS",
@@ -311,6 +328,7 @@
       "EMS S7",
       "EMS S8",
       "EMS6",
+      "EMS7",
       "EMS8-EMD1",
       "L32",
       "MS5",
@@ -327,9 +345,13 @@
       "L11",
       "L12",
       "L14",
+      "L16",
       "L21",
       "L23",
-      "MD1CE101"
+      "L9 - L11 - L12",
+      "MD1CE101",
+      "MPC-ST10",
+      "PLD"
     ],
     "RENAULT TRUCKS": [
       "ACM",
@@ -338,6 +360,7 @@
       "EDC16C41",
       "EDC17CV41",
       "EMS2",
+      "EMS2.0",
       "EMS2.1",
       "EMS2.2",
       "EMS2.3",
@@ -348,10 +371,12 @@
     "MACK": [
       "EDC17CV41",
       "EMS2",
-      "EMS2.2"
+      "EMS2.2",
+      "MS6.2"
     ],
     "FENDT": [
       "EDC17CV41",
+      "EDC17CV44",
       "EDC17CV52",
       "EDC17CV56",
       "EDC7",
@@ -404,6 +429,7 @@
       "EDC17C81"
     ],
     "JCB": [
+      "CM850",
       "DCM3.3",
       "DCU17CV51",
       "EDC17C01",
@@ -431,6 +457,7 @@
       "EDC16C31"
     ],
     "INTERNATIONAL": [
+      "CM871",
       "EDC17CV42",
       "EDC7C32",
       "SID903",
@@ -499,6 +526,102 @@
       "MCM",
       "SH7055",
       "SH7058-SH72544"
+    ],
+    "SCANIA R580": [
+      "EMS S8"
+    ],
+    "SCANIA R400": [
+      "EMS S6"
+    ],
+    "IVECO EUROCARGO": [
+      "EDC7C1"
+    ],
+    "DAF CF75": [
+      "DMCI"
+    ],
+    "SCANIA R560": [
+      "EMS S6"
+    ],
+    "FENDT 930": [
+      "EDC17CV52"
+    ],
+    "DAF CF65": [
+      "EDC7C1"
+    ],
+    "DAF XF105": [
+      "DMCI"
+    ],
+    "SCANIA R500": [
+      "EMS S6"
+    ],
+    "DAF XF95": [
+      "MS6.2"
+    ],
+    "DAF CF85": [
+      "DMCI"
+    ],
+    "MACK TRIDENT": [
+      "EMS2.2"
+    ],
+    "CHALLENGER MT700": [
+      "EDC17CV44"
+    ],
+    "VALTRA T194": [
+      "EDC17CV41"
+    ],
+    "VALTRA T151": [
+      "EDC7UC31"
+    ],
+    "VALTRA N123": [
+      "EDC17CV44"
+    ],
+    "MACK GRANITE MP8": [
+      "EMS2"
+    ],
+    "MACK D12": [
+      "EMS2.2"
+    ],
+    "MACK CH": [
+      "MS6.2"
+    ],
+    "VALTRA A83": [
+      "EDC7UC31"
+    ],
+    "VALTRA A93": [
+      "EDC17CV44"
+    ],
+    "VALTRA P191": [
+      "EDC7UC31"
+    ],
+    "VALTRA N111": [
+      "EDC7UC31"
+    ],
+    "VALTRA T213": [
+      "EDC17CV44"
+    ],
+    "VALTRA A83-SERIES": [
+      "EDC7UC31"
+    ],
+    "AGCO": [
+      "EDC17CV44"
+    ],
+    "PERKINS": [
+      "EDC17C49"
+    ],
+    "AHWI": [
+      "EDC7UC31-12"
+    ],
+    "YTO MOTOR": [
+      "EDC17CV43"
+    ],
+    "STERLING": [
+      "ADEM3"
+    ],
+    "HURLIMANN": [
+      "EDC17C53"
+    ],
+    "PETERBILT": [
+      "CM871"
     ]
   }
 }
