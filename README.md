@@ -4,9 +4,9 @@
 [![Trucks .org](https://img.shields.io/badge/.ORG-davincideluxe.org%2Ftrucks-14ea63?style=for-the-badge)](https://www.davincideluxe.org/trucks)
 [![Trucks .app](https://img.shields.io/badge/.APP-davincideluxe.app%2Ftrucks-ff007f?style=for-the-badge)](https://www.davincideluxe.app/trucks)
 
-**DaVinci Deluxe Cloud Edition Trucks** is our dedicated **24V commercial vehicle, agricultural tractor, forestry, and construction machinery ECU calibration engine** (104 brands · 452+ ECU models), running natively on **Windows, macOS, Linux, Android, iPad, iPhone, and Web Cloud**.
+**DaVinci Deluxe Cloud Edition Trucks** is our dedicated **24V commercial vehicle, agricultural tractor, forestry, and construction machinery ECU calibration engine** (105 brands · 452+ ECU models), running natively on **Windows, macOS, Linux, Android, iPad, iPhone, and Web Cloud**.
 
-## 🚛 Live Brand & ECU Coverage (104 Brands · 452+ ECU Types)
+## 🚛 Live Brand & ECU Coverage (105 Brands · 452+ ECU Types)
 
 | Heavy-Duty / Agri Brand | ECU Models | Sample Supported ECUs |
 | :--- | :---: | :--- |
@@ -42,7 +42,7 @@
 | **FPT INDUSTRIAL** | 22 | CM570, CM850, DCU15, DCU17PC43, EDC16C39, EDC17C49, EDC17CP52, EDC17CV41 … |
 | **FREIGHTLINER** | 5 | CPC, DDEC10, MCM, MCM2, MCM2.1 |
 | **HIDROMEK** | 1 | MD1CS003 |
-| **HITACHI** | 1 | EDC17CV52 |
+| **HITACHI** | 2 | BED434, EDC17CV52 |
 | **HURLIMANN** | 1 | EDC17C53 |
 | **INTERNATIONAL** | 5 | CM871, EDC17CV42, EDC7C32, SID903, SID904 |
 | **ISUZU** | 7 | EDC17C09, EDC17C81, EDC17C83, EDC17CV41, MCM, SH7055, SH7058-SH72544 |
@@ -58,7 +58,7 @@
 | **KOBELCO** | 1 | EDC17CV54 |
 | **KOMATSU** | 1 | EDC17CV54 |
 | **KRAMER** | 1 | EDC17CV52 |
-| **KUBOTA** | 1 | SH7058 |
+| **KUBOTA** | 2 | EDC17CV45, SH7058 |
 | **LANNEN** | 1 | EDC17CV41 |
 | **MACDON** | 1 | CM850 |
 | **MACK** | 4 | EDC17CV41, EMS2, EMS2.2, MS6.2 |
@@ -109,6 +109,7 @@
 | **VALTRA T194** | 1 | EDC17CV41 |
 | **VALTRA T213** | 1 | EDC17CV44 |
 | **VERMEER** | 1 | EDC7UC31 |
+| **VOITH** | 1 | VOITH |
 | **VOLKSWAGEN TRUCKS** | 7 | CM2150E, CPC, EDC16, EDC17C46, EDC17CV41, EDC7C32, MCM |
 | **VOLVO TRUCKS** | 15 | ACM, ATK-EM-EU6, EDC17CV41, EDC7, EDC7C1-C2, EDC7UC31, EMS, EMS2 … |
 | **YANMAR** | 2 | EDC16C1, EDC17CV54 |
