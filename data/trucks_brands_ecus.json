@@ -88,6 +88,7 @@
       "L9 - L11 - L12",
       "MD1CE101",
       "MPC-ST10",
+      "MR2",
       "PLD"
     ],
     "NEW HOLLAND": [
@@ -169,6 +170,7 @@
       "ACM2.1"
     ],
     "CUMMINS": [
+      "CM2250",
       "CM850",
       "CM871"
     ],
@@ -574,6 +576,7 @@
       "EMS2.3",
       "EMS2.4",
       "EMS2.X",
+      "I-SHIFT",
       "L21",
       "MS2",
       "PLD"
